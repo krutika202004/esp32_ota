@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Config": "FAN",
-      "Version": "4.0.0",
+      "Version": "5.0.0",
       "URL": "https://raw.githubusercontent.com/krutika202004/esp32_ota/main/app.ino.doitESP32devkitV1.bin"
     }
   ]
