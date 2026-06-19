@@ -1,9 +1,8 @@
 {
-  "Configurations": [
-    {
-      "Config": "FAN",
+  "Configurations": {
+    "FAN": {
       "Version": "2.0.0",
-      "URL": "https://raw.githubusercontent.com/krutika202004/esp32_ota/blob/main/app.ino.doitESP32devkitV1.bin"
+      "URL": "https://raw.githubusercontent.com/krutika202004/esp32_ota/main/app.ino.doitESP32devkitV1.bin"
     }
-  ]
+  }
 }
